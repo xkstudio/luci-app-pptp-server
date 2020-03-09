@@ -1,2 +1,5 @@
-PPTP VPN Server for LuCI
-========================
+PPTP VPN Server
+===============
+
+Support for LuCI
+
