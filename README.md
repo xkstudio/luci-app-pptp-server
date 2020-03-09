@@ -7,3 +7,5 @@ Support for LuCI
 
 - [Lede](https://github.com/xkstudio/openwrt-lede)
 
+- [LuCI](https://github.com/openwrt/luci)
+
